@@ -1,5 +1,30 @@
 {
   "说明": "本地合成演练资料",
   "业务对象": "机器人动作样本的分段湖与标注代次交接",
-  "记录": []
+  "记录": [
+    {
+      "robot_id": "R-07",
+      "session_id": "S-19",
+      "segment_no": 1,
+      "event_time": "2026-10-04T09:00:00Z",
+      "calibration": "cal-a",
+      "state": "可用"
+    },
+    {
+      "robot_id": "R-07",
+      "session_id": "S-19",
+      "segment_no": 2,
+      "event_time": "2026-10-04T09:00:02Z",
+      "calibration": "cal-a",
+      "state": "待齐"
+    },
+    {
+      "robot_id": "R-07",
+      "session_id": "S-20",
+      "segment_no": 1,
+      "event_time": "2026-10-04T11:10:00Z",
+      "calibration": "cal-b",
+      "state": "可用"
+    }
+  ]
 }
